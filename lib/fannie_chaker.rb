@@ -1,4 +1,3 @@
-    
 class FannieChaker
   class MovieQuote
 
